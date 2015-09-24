@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "tachyon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": "1.14.0",
+    "extdirect": "2.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "\"A simple web application in Ext js\"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitcreation7/ExtJs-backend-Node-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amitcreation7/ExtJs-backend-Node-js/issues"
+  },
+  "homepage": "https://github.com/amitcreation7/ExtJs-backend-Node-js#readme"
+}
